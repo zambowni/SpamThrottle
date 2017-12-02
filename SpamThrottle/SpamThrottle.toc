@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: SpamThrottle
+## Notes: Eliminates unnecessary and annoying chat messages
+## Author: Orukxu
+## Version: Vanilla_1.12
+## SavedVariables: SpamThrottle_Config SpamThrottle_KeywordFilterList SpamThrottle_PlayerFilterList SpamThrottle_PlayerBanTime
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+SpamThrottle.xml
